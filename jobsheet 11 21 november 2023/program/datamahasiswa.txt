@@ -1,0 +1,12 @@
+Data mahasiswa ke-1
+Nama: fhandy
+NIM: 23343065
+Jurusan: elektronika
+Program Studi: informatika
+
+Data mahasiswa ke-2
+Nama: zora
+NIM: 23343099
+Jurusan: otomotif
+Program Studi: otomotif(nk)
+
